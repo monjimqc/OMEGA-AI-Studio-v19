@@ -1,0 +1,6 @@
+{
+  "name": "VEP Control Center",
+  "description": "Verified Engineering Pipeline (VEP) dashboard for enterprise software. Monitored verification kit, specialized guardians, self-healing, and auditable proof.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
